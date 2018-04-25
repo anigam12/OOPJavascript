@@ -1,0 +1,23 @@
+{
+  "name": "vidz-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/abhi1nema2/vidz-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/abhi1nema2/vidz-API/issues"
+  },
+  "homepage": "https://gitlab.com/abhi1nema2/vidz-API#README",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
